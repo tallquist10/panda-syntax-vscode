@@ -7,28 +7,28 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>Panda, Created by Siamak Mokhtari.</string>
+	<string>Hope Theme, Created by Caleb Tallquist.</string>
 	<key>author</key>
-	<string>Siamak Mokhtari</string>
+	<string>Caleb Tallquist</string>
 	<key>name</key>
-	<string>Sublime Panda Syntax</string>
+	<string>VS Code Hope College</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#036</string>
+				<string>#002244</string>
 				<key>caret</key>
-				<string>#FFF</string>
+				<string>#FFFFFF</string>
 				<key>foreground</key>
-				<string>#E6E6E6</string>
+				<string>#F7E654</string>
 				<key>invisibles</key>
-				<string>#34383D</string>
+				<string>#A6A7A9</string>
 				<key>lineHighlight</key>
-				<string>#404954</string>
+				<string>#4D647C</string>
 				<key>selection</key>
-				<string>#3C404587</string>
+				<string>#334E69</string>
 			</dict>
 		</dict>
 		<dict>
@@ -39,7 +39,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#676B79</string>
+				<string>#BED600</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -52,7 +52,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#19F9D8</string>
+				<string>#00B0CA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +74,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFB86C</string>
+				<string>#FFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -85,7 +85,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6DB1FF</string>
+				<string>#B27B56</string>
 			</dict>
 		</dict>
 		<dict>
@@ -98,7 +98,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFAAD9</string>
+				<string>#FAF098</string>
 			</dict>
 		</dict>
 		<dict>
@@ -109,7 +109,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF75B5</string>
+				<string>#F46A1F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -122,7 +122,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFB86C</string>
+				<string>#BBE7E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -133,7 +133,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFB86C</string>
+				<string>#4D958C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -144,7 +144,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFC990</string>
+				<string>#000</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -172,7 +172,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#65BDFF</string>
+				<string>#91420E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -198,7 +198,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF2C6D</string>
+				<string>#000500</string>
 			</dict>
 		</dict>
 		<dict>
@@ -314,7 +314,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E6E6E6</string>
+				<string>#F8FDFD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -336,7 +336,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E6E6E6</string>
+				<string>#F8FDFD</string>
 			</dict>
 		</dict>
 		<dict>

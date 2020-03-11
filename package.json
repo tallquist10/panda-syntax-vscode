@@ -1,9 +1,9 @@
 {
-    "name": "theme-panda",
-    "displayName": "Panda",
-    "description": "Panda syntax theme for Visual Studio Code.",
+    "name": "theme-hope",
+    "displayName": "Hope",
+    "description": "Hope College theme for Visual Studio Code.",
     "version": "0.0.1",
-    "publisher": "tinkertrain",
+    "publisher": "caleb-tallquist",
     "engines": {
         "vscode": "^1.0.0"
     },
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Panda Syntax",
+                "label": "Hope College Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/panda-syntax.tmTheme"
+                "path": "./themes/hope-syntax.tmTheme"
             }
         ]
     }
